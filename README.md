@@ -1,12 +1,12 @@
 # FaroeeMP
 Android Media Player made with DroidScript
-  Key Features:
-    > Auto Generate Media FileList
-    > Load Media by choosing file or folder
-    > Stream Media
-    > Basic Media Player Controller (Play, Pause, Next, Prev) <--- under development
-    > Playlist <--- under development
-    > Send now playing to BBM / WhatsApp / FB Status ( soon )
-    > Lyric Tools ( soon )
+#Key Features:
+   1. Auto Generate Media FileList
+   2. Load Media by choosing file or folder
+   3. Stream Media
+   4. Basic Media Player Controller (Play, Pause, Next, Prev) <--- under development
+   5. Playlist <--- under development
+   6. Send now playing to BBM / WhatsApp / FB Status ( soon )
+   7. Lyric Tools ( soon )
   
   Currently under development. Since this is my beginning with Droid Script.
